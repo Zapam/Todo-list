@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.container{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg,#2193b0 , #6dd5ed);
+  padding-right: 0;
+}
